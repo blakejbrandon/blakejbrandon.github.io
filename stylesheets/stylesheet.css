@@ -52,13 +52,6 @@ a:hover {
   margin-bottom: 0px;
 }
 
-.page_subtitle li:after {
-  content:"|";
-  margin-left: 10px;
-}
-
-
-
 .page_subtitle li:nth-of-type(5):after {
   content:"";
   margin-left: 10px;
